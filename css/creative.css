@@ -29,7 +29,9 @@ a:hover,
 a:focus {
   color: #CA3317;
 }
-
+.menu-toggle {
+    background-color: #fff;
+}
 h1,
 h2,
 h3,
@@ -143,6 +145,9 @@ aside {
   .navbar-default.affix .nav > li > a:hover,
   .navbar-default.affix .nav > li > a:focus:hover {
     color: #CA3317;
+  }
+  .menu-toggle {
+    background-color: #000;
   }
 }
 header {
